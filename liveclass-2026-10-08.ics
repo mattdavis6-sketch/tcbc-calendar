@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Christian Betrayal Coach//Live Class//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:liveclass-20261008@thechristianbetrayalcoach.com
+DTSTAMP:20260914T000000Z
+DTSTART:20261008T163000Z
+DTEND:20261008T173000Z
+SUMMARY:My 3 Easy Steps to Become Free From Your Husband's Porn Problem
+LOCATION:https://thechristianbetrayalcoach.com/liveclass
+URL:https://thechristianbetrayalcoach.com/liveclass
+DESCRIPTION:Join here: https://thechristianbetrayalcoach.com/liveclass
+END:VEVENT
+END:VCALENDAR
