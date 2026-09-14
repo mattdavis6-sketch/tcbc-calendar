@@ -12,5 +12,10 @@ SUMMARY:My 3 Easy Steps to Become Free From Your Husband's Porn Problem
 LOCATION:https://thechristianbetrayalcoach.com/liveclass
 URL:https://thechristianbetrayalcoach.com/liveclass
 DESCRIPTION:Join here: https://thechristianbetrayalcoach.com/liveclass
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Live class starts in 10 minutes
+TRIGGER:-PT10M
+END:VALARM
 END:VEVENT
 END:VCALENDAR
